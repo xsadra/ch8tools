@@ -1,3 +1,9 @@
+###########################
+#                         #
+#    Edited By @xSadra    #
+#  Open Main.py to Start  #
+#                         #
+###########################
 import os , hashlib , thread , time , socket , sys , pyfiglet
 
 os.system("clear")
